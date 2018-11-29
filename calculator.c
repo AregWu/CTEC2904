@@ -15,6 +15,7 @@ int main(void) {
     d = d + entities;
     }
     printf("%d", d/hEntities);
+	printf("hello")
   return 0;
 
 }
